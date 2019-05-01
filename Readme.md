@@ -15,7 +15,7 @@ Maven-Dependency management
 
 Sample flowchart of implementation
 
-![](images/flowchart1.png)
+flowchart1.png
 
 ## Contributing
 
