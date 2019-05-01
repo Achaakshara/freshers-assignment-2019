@@ -3,7 +3,7 @@ CleanIndia
 
 This is a java based project which deals with recycle kiosks at various places to collect waste.These kiosks run an application to guide user.
 
-## prerequisties
+## Prerequisties
 
 Softwares that are need to be installed are eclipse IDE , Apache tomcat server of any version and Database to store userdetails,recycle wastage information,generating coupons and validation.
 
@@ -11,7 +11,7 @@ Softwares that are need to be installed are eclipse IDE , Apache tomcat server o
 
 Maven-Dependency management
 
-##Visuals
+## Visuals
 
 Sample flowchart of implementation
 
