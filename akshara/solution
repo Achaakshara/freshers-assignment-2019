@@ -1,4 +1,15 @@
-# CleanIndia
+CleanIndia
 
-## Project Goals
-Main aim of this project is to implement swatchbharat scheme digitally by providing kiosks which includes application to guide users how to process to 
+Project Goals:
+
+Main aim of this project is to implement swatchbharat scheme digitally by providing kiosks which includes application to guide users .
+
+Project Approach:
+
+It is based on java programming which is to be done using eclipse .A oracle database is used to store different details such as user details (Firstname,
+Lastname,Emailid,password given by users,mobile no).In this database we predominatly use JOINS concept inorder to generate coupons to a individual user
+and sending them to their registered mobile numbers.
+
+Implementation in form of flowchart:
+
+
