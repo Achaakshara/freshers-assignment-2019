@@ -1,0 +1,18 @@
+CleanIndia
+
+Project Goals:
+
+Main aim of this project is to implement swatchbharat scheme digitally by providing kiosks which includes an application to guide users.
+
+Project Approach:
+
+This project is mainly based on java ,we make use of oracle database where we store details of user(Firstname,lastname,emailid,password,mobile number)
+In database we make use of important concept called JOINS to generate coupons.After giving recycle wasteage details we have to generate coupons
+to individual user.Hence, these joins are used to join every single user to the coupons he/she gets after they submitting their recycle details and 
+eventually sending updated coupons to registered mobile numbers of users.
+
+Implementation:
+
+Sample Flowchart-
+
+flowchart1.png
